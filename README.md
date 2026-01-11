@@ -2,7 +2,7 @@
 
 > A high-performance, security-hardened portfolio built to showcase research in Anomaly Detection, Clinical NLP, and Digital Forensics.
 
-![Portfolio Preview](public/images/profile.png)
+![Portfolio Preview](website/public/images/Profile.png)
 
 ## 🚀 Overview
 This is a **Single Page Application (SPA)** built with **React.js** and **Vite**. Unlike standard portfolios, this site is engineered with a "Security-First" architecture, featuring HTTP security headers, 404 anomaly detection, and a clean, academic design system.
